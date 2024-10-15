@@ -3,6 +3,7 @@
 > Example files with the changes required to make a Pi boot cleanly, directly into fullscreen browser
 
 ## Files/changes
+  **browser.desktop goes in ~/.config/autostart**
 - **/boot/cmdline.txt**
   - console=tty3
   - loglevel=3
